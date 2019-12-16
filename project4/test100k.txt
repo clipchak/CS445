@@ -1,0 +1,216 @@
+Algorithm: Simple Quick Sort
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 2106459.5 comparisons
+Average data moves made: 1192754.7 data moves
+Average sort time: 0.023617736 seconds
+
+Algorithm: Simple Quick Sort
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 5.000149998E9 comparisons
+Average data moves made: 299997.0 data moves
+Average sort time: 18.773047176 seconds
+
+Algorithm: Simple Quick Sort
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 5.000099998E9 comparisons
+Average data moves made: 299997.0 data moves
+Average sort time: 9.190755102 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 5)
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 1376471.9 comparisons
+Average data moves made: 1250364.3 data moves
+Average sort time: 0.031585149 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 5)
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 1401714.0 comparisons
+Average data moves made: 196602.0 data moves
+Average sort time: 0.005877511 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 5)
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 2421188.0 comparisons
+Average data moves made: 542952.0 data moves
+Average sort time: 0.006417629 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 20)
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 1469856.9 comparisons
+Average data moves made: 979261.2 data moves
+Average sort time: 0.017520406 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 20)
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 1275440.0 comparisons
+Average data moves made: 49146.0 data moves
+Average sort time: 0.003422255 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 20)
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 2338196.0 comparisons
+Average data moves made: 317850.0 data moves
+Average sort time: 0.005718748 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 100)
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 2630517.8 comparisons
+Average data moves made: 768892.8 data moves
+Average sort time: 0.018790253 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 100)
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 996941.0 comparisons
+Average data moves made: 6138.0 data moves
+Average sort time: 0.002439555 seconds
+
+Algorithm:  Median of 3 Quick Sort (base case array size < 100)
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 1836174.0 comparisons
+Average data moves made: 174372.0 data moves
+Average sort time: 0.00421176 seconds
+
+Algorithm: Random Pivot Quick Sort
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 2074418.7 comparisons
+Average data moves made: 1204699.5 data moves
+Average sort time: 0.027183992 seconds
+
+Algorithm: Random Pivot Quick Sort
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 2055535.1 comparisons
+Average data moves made: 189535.8 data moves
+Average sort time: 0.011349049 seconds
+
+Algorithm: Random Pivot Quick Sort
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 2097143.4 comparisons
+Average data moves made: 339615.6 data moves
+Average sort time: 0.009341793 seconds
+
+Algorithm: Iterative Quick Sort with the Stack
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 1478131.2 comparisons
+Average data moves made: 1245780.3 data moves
+Average sort time: 0.029831078 seconds
+
+Algorithm: Iterative Quick Sort with the Stack
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 1501712.0 comparisons
+Average data moves made: 196608.0 data moves
+Average sort time: 0.007517535 seconds
+
+Algorithm: Iterative Quick Sort with the Stack
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 2621128.0 comparisons
+Average data moves made: 542970.0 data moves
+Average sort time: 0.009355788 seconds
+
+Algorithm: Recursive Merge Sort
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 1566866.0 comparisons
+Average data moves made: 3195050.8 data moves
+Average sort time: 0.034581804 seconds
+
+Algorithm: Recursive Merge Sort
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 0.0 comparisons
+Average data moves made: 0.0 data moves
+Average sort time: 8.97323E-4 seconds
+
+Algorithm: Recursive Merge Sort
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 915023.0 comparisons
+Average data moves made: 3337856.0 data moves
+Average sort time: 0.013934993 seconds
+
+Algorithm: Iterative Merge Sort
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 1566535.4 comparisons
+Average data moves made: 3385984.0 data moves
+Average sort time: 0.028688847 seconds
+
+Algorithm: Iterative Merge Sort
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 877968.0 comparisons
+Average data moves made: 3385984.0 data moves
+Average sort time: 0.013892327 seconds
+
+Algorithm: Iterative Merge Sort
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 815024.0 comparisons
+Average data moves made: 3385984.0 data moves
+Average sort time: 0.012486629 seconds
+
+Algorithm: Iterative Merge Sort with the Stack
+Array Size: 100000
+Order: Random
+Number of trials: 10
+Average Comparisons: 1566866.0 comparisons
+Average data moves made: 3195050.8 data moves
+Average sort time: 0.026851447 seconds
+
+Algorithm: Iterative Merge Sort with the Stack
+Array Size: 100000
+Order: Sorted
+Number of trials: 10
+Average Comparisons: 0.0 comparisons
+Average data moves made: 0.0 data moves
+Average sort time: 0.001128364 seconds
+
+Algorithm: Iterative Merge Sort with the Stack
+Array Size: 100000
+Order: Reverse Sorted
+Number of trials: 10
+Average Comparisons: 915023.0 comparisons
+Average data moves made: 3337856.0 data moves
+Average sort time: 0.012250084 seconds
+

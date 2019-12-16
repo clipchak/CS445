@@ -1,0 +1,9 @@
+What size arrays should be used?
+   It should be an integer value greater than or equal to 1.
+Your data: [ 4 2 2 2 1 ]
+How many trials?
+   It should be an integer value greater than or equal to 1.
+Enter the name of the file to output results to (ex: test25k.txt):
+array size: 5
+trials: 5
+outputFileName: 5
